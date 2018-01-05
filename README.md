@@ -1,0 +1,3 @@
+需要添加一个环境变量ANDROID_HOME
+
+值为ANDROID_HOME所在目录即可，主要是项目使用了adb
